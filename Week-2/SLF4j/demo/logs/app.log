@@ -1,0 +1,4 @@
+2025-06-28 01:17:23 ERROR com.example.LoggingExample - This is an error message
+2025-06-28 01:17:23 WARN  com.example.LoggingExample - This is a warning message
+2025-06-28 01:17:23 INFO  com.example.LoggingExample - This is an info message
+2025-06-28 01:17:23 DEBUG com.example.LoggingExample - This is a debug message (may not be shown by default)
