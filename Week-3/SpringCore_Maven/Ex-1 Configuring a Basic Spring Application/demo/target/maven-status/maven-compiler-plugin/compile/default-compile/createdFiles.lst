@@ -1,0 +1,4 @@
+com/example/App.class
+com/library/service/BookService.class
+com/library/MainApp.class
+com/library/repository/BookRepository.class
